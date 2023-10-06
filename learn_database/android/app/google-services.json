@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917562270683",
+    "project_id": "learndarabase",
+    "storage_bucket": "learndarabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917562270683:android:c8484d6ad0e4827b81fdfe",
+        "android_client_info": {
+          "package_name": "com.example.learn_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqs_vLqivY1eT9KQXhcgJtn4g9_hPbpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
